@@ -1,0 +1,5 @@
+Things to add  to the homepage:
+1. Navigatton bar
+2. Art
+3. Short about me description with like to read more
+4. Thumbnail for portfolio

@@ -1,0 +1,4 @@
+Things to add to the portfolio page:
+1. School lab projects
+2. Workshop projects
+3. Freelance prrojects

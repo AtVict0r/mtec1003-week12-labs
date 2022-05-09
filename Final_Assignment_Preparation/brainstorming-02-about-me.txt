@@ -1,0 +1,10 @@
+Things to add to the about me:
+1. A picture
+2. A short description
+3. List of skills
+4. List of softwares
+5. Education
+6. Experience
+7. Volunteer
+8. Extra curriculum activities
+9. List of projects with link to read more
